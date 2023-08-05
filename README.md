@@ -1,4 +1,4 @@
-# aspnet7-crud-app
+# aspnet7-crud-app (Movie Database)
 
 This is a simple Movie Database Crud App, written in .NET 7.0.
 
